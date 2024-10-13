@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Ex14&apos; to &apos;Ex14_인터페이스&apos;&#x0D;&#x0A;- Original project: &apos;07_예외처리와 내부클래스&apos;&#x0D;&#x0A;- Original element: &apos;Ex14&apos;&#x0D;&#x0A;- Renamed element: &apos;Ex14_인터페이스&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex14&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Ex14.java[Ex14" matchStrategy="1" name="Ex14_인터페이스" qualified="false" references="true" similarDeclarations="false" stamp="1706597031696" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;27_ProductGUI/src&apos;&#x0D;&#x0A;- Original project: &apos;23_ProductJDBC&apos;&#x0D;&#x0A;- Destination element: &apos;27_ProductGUI/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ProductsDao.java&#x0D;&#x0A;     ProductsBean.java&#x0D;&#x0A;     ProductsMain.java" description="Copy compilation units" destination="=27_ProductGUI/src" element1="/src&lt;{ProductsDao.java" element2="/src&lt;{ProductsBean.java" element3="/src&lt;{ProductsMain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1709532274262" units="3" version="1.0"/>
+</session>

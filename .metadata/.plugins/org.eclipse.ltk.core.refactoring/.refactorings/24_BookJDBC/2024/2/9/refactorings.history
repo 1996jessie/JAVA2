@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;BookNain&apos; to &apos;BookMain&apos;&#x0D;&#x0A;- Original project: &apos;24_BookJDBC&apos;&#x0D;&#x0A;- Original element: &apos;BookNain&apos;&#x0D;&#x0A;- Renamed element: &apos;BookMain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BookNain&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{BookNain.java[BookNain" matchStrategy="1" name="BookMain" qualified="false" references="true" similarDeclarations="false" stamp="1709085870996" textual="false" version="1.0"/>
+</session>
